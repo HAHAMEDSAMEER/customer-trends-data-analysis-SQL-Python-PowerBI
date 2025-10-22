@@ -69,4 +69,9 @@ The goal of this project is to simulate a corporate-grade analytics workflow tha
 
 
 ## 🧩 Folder Structure
-
+customer-trends-data-analysis-SQL-Python-PowerBI/
+│
+├── Customer_Shopping_Behavior_Analysis.ipynb # Python Notebook for EDA & Data Cleaning
+├── customer_behavior_sql_queries.sql # SQL Queries for Business Questions
+├── customer_behavior_dashboard.pbix # Power BI Dashboard
+└── README.md # Project Documentation
